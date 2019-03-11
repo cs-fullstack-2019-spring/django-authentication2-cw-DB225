@@ -1,3 +1,6 @@
+### POINTS: 0
+### KEY: Username in Blog model does not tie back to Django User model so doesn't support log in or filtering by logged in User. Looks like you may have run out of time :-(
+
 # Django Authentication CW
 
 ### Exercise 1:
